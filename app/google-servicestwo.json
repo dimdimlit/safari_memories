@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "12868138987",
+    "firebase_url": "https://safari-memories-default-rtdb.firebaseio.com",
+    "project_id": "safari-memories",
+    "storage_bucket": "safari-memories.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12868138987:android:3d14f6dab06c3696978bae",
+        "android_client_info": {
+          "package_name": "com.example.safarimemoriesdimlight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12868138987-ts6to9120414fr22t2mvmusvf5g2r777.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaImD8loFpAd7yNvq-x3nZN-w0_gjPTNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12868138987-ts6to9120414fr22t2mvmusvf5g2r777.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
